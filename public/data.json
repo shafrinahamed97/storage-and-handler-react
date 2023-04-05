@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "642d2e346c03c39653a53707",
+      "price": 414,
+      "name": "Harrell Phelps"
+    },
+    {
+      "_id": "642d2e3417d19b0e3b276fcb",
+      "price": 484,
+      "name": "Margery Merrill"
+    },
+    {
+      "_id": "642d2e3476493e39ecf2464a",
+      "price": 399,
+      "name": "Cotton Finley"
+    },
+    {
+      "_id": "642d2e34a1ddd0f928b72603",
+      "price": 333,
+      "name": "Dodson Finch"
+    },
+    {
+      "_id": "642d2e343c56e34f7077f0bb",
+      "price": 176,
+      "name": "Tyler Brady"
+    }
+  ]
